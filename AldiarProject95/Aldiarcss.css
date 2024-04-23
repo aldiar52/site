@@ -1,0 +1,260 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+.all{
+    display:block;
+}
+Header{
+    display: flex;
+    justify-content: center ;
+    height: 100px;
+}
+.Logo, .top-menu{
+    display: inline-block;
+}
+.top-menu, li{
+    margin-right: 25px;
+    display: inline-block;
+}
+.top-menu a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    font-size: 25px;
+    color: aliceblue;
+}
+.top-menu a:hover{
+    color: aqua;
+}
+.Logo h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+.all{
+    display: flex;
+    flex-direction: column; 
+}
+.main{
+    display: flex;
+    justify-content: center;
+}
+.first{
+    display: block;
+    justify-content: center;
+    margin-top: 30vh;
+}
+.first, p{
+    font-size: large ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.first, img{
+    width: 30%;
+}
+.ME{
+    display:block;
+}
+.ME, h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    align: center;
+}
+.ME2{
+    display: flex;
+
+}
+.capibara{
+    width: 20%;
+    border-radius: 50%;
+    margin-left: 40vh;
+}
+.pm{
+    margin-top: 30vh;
+}
+.skills{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20vh;
+}
+.skill{
+   
+}
+.circle{
+    height: 20px;
+      width: 20px;
+      background-color: rgb(222, 12, 237);
+      border-radius: 50%;
+      margin-right: 10px;
+    }
+.circle1{
+height: 20px;
+  width: 20px;
+  background-color: rgb(222, 12, 237);;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+.circle2{
+    height: 20px;
+      width: 20px;
+      background-color: rgb(222, 12, 237);;
+      border-radius: 50%;
+      margin-right: 10px;
+    }
+    .circle3{
+        height: 20px;
+          width: 20px;
+          background-color: rgb(222, 12, 237);;
+          border-radius: 50%;
+          margin-right: 10px;
+        }
+        .circle4{
+            height: 20px;
+              width: 20px;
+              background-color: rgb(222, 12, 237);;
+              border-radius: 50%;
+              margin-right: 10px;
+            }
+            .circle5{
+                height: 20px;
+                  width: 20px;
+                  background-color: rgb(53, 24, 42);
+                  border-radius: 50%;
+                  margin-right: 10px;
+                }
+        .circle6{
+        height: 20px;
+         width: 20px;
+        background-color: rgb(53, 24, 42);
+          border-radius: 50%;
+          margin-right: 10px;
+           }
+      .circle7{
+          height: 20px;
+         width: 20px;
+         background-color: rgb(53, 24, 42);
+        border-radius: 50%;
+        margin-right: 10px;
+        }
+        .circle8{
+        height: 20px;
+         width: 20px;
+         background-color: rgb(53, 24, 42);
+        border-radius: 50%;
+        margin-right: 10px;
+        }
+        .circle9{
+            height: 20px;
+             width: 20px;
+             background-color: rgb(53, 24, 42);
+            border-radius: 50%;
+            margin-right: 10px;
+            }
+.maincircle1{
+    display: flex;
+}
+.project{
+    display: block;
+    margin-top: 20vh;
+}
+.istorik{
+    width:15%;
+    margin-left:60vh;
+}
+.bebe a:hover{
+    color: aqua;
+}
+.bebe{
+    display: flex;
+    margin-right: 40vh;
+}
+.blog{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20vh;
+}
+.mainblog{
+    display: flex;
+}
+.mainblog p{
+    font-size:20px;
+}
+.mainblog a{
+    text-decoration: none;
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.blog h1{
+    font-size: 60px;
+}
+.blog button{
+    width:130px;
+    height: 40px;
+    border-radius: 40px;
+    font-family: fantasy;
+    color: aliceblue;
+    background-color: rgb(204, 59, 214);
+}
+.bubble{
+    width: 30%;
+}
+.bubble a{
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.merge{
+    width: 30%;
+}
+.stolbr{
+    display: flex;
+    flex-direction: column;
+    padding-top: 20vh;
+    padding-right: 20vh;
+    justify-content: right;
+}
+
+.stolbl{
+    display: flex;
+    flex-direction: column;
+    padding-top: 20vh;
+    padding-left: 20vh;
+}
+.quick{
+    width: 40%;
+}
+.white{
+    
+    width: 40%;
+}
+.contact{
+    display: block;
+    margin-top: 10vh;
+    margin-left: 95vh;
+    
+}
+.contact h1{
+    width: 100px;
+    justify-content: center;
+}
+.contact h1{
+    margin-top: 10vh;
+}
+.contact form{
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+}
+.last{
+    display: flex;
+}
+.last h1{
+    font-size:100px;
+    margin-left: 20vh;
+}
+.last img{
+    margin-top: 15vh;
+    margin-left: 15vh;
+    width: 100px;
+    border-radius: 50%;
+}

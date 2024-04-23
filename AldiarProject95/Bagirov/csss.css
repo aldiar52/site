@@ -1,0 +1,117 @@
+.body{
+	font-size: 30px;
+}
+.Bagirov{
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-bottom: 100px;
+	padding: 10px;
+}
+img{
+	width: 700px;
+
+}
+.flex{
+                display: flex;
+                align-items: center;
+                height: 100vh;
+            }
+            .bebra{
+				width: 700px;
+}
+.block{
+	display: block;
+    align-items: center;
+    height: 100vh;
+}
+.kid{
+	margin-left: 10px;
+}
+.oguzok{
+	display: flex;
+    align-items: center;
+    height: 100vh;
+}
+}
+.a{
+	display: block;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+.b{ 
+	display: block;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+.c{ 
+	display: block;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+.perun{
+	width: 450px;
+	height: 390px;
+}
+.svyatoslav{
+	width: 450px;
+	height: 390px;
+}
+.myhailo{
+	width: 450px;
+	height: 390px;
+}
+.secondpart{
+	display: block;
+    align-items: center;
+    height: 100vh;
+}
+.bear{
+	margin-left: 800px;
+}
+.Pterodimir{
+	margin-right: 800px;
+}
+.gladiator{
+	margin-left: 800px;
+}
+.sport{
+	margin: 100px;
+}
+.Bio{
+	margin: 100px;
+}
+.God{
+	margin: 100px;
+}
+.Victory{
+	margin: 100px;
+}
+.me{
+	margin-left: 800px;
+}
+.bl{
+	margin-left: 400px;
+}
+.dl{
+	margin-left: 400px;
+}
+@keyframes move {
+	from {
+		margin-left: 0;
+	}
+	to {
+		margin-right: 400px;
+	}
+}
+.russia{
+	height: 300px;
+	width: 500px;
+	margin-left: 1000px;
+	animation-direction: alternate;
+	animation-duration: 3s;
+	animation-name: move;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	border: 1px solid black;
+
+    }
